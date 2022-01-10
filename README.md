@@ -23,12 +23,6 @@ print(z)
 
 Output:
 
-       col1    col2  DISTANCE
-0       def  asdgfg         4
-1       abc  asdgfg         5
-2   adsfads  asdgfg         5
-3  gfhdhgdf  asdgfg         6
-
 |   col1   |  col2  | DISTANCE |
 | :------: | :----: | :------: |
 |   def    | asdgfg |    4     |
