@@ -5,7 +5,7 @@ A small Python package that join 2 Pandas DataFrame using fuzzy matching by calc
 To install:
 
 ```bash
-pip install git+https://github.com/truonghm/fuzzy_join.git#egg=measurements
+pip install git+https://github.com/truonghm/fuzzy_join.git
 ```
 
 ## Usage
