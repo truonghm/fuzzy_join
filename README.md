@@ -1,6 +1,6 @@
 # fuzzy_join
 
-A small Python package that join 2 Pandas DataFrame using fuzzy matching by calculating the Levenshtein distance.
+A small Python package that join 2 Pandas DataFrames using fuzzy matching by calculating the Levenshtein distance.
 
 To install:
 
@@ -36,4 +36,10 @@ Output:
 | adsfads  | asdgfg |    5     |
 | gfhdhgdf | asdgfg |    6     |
 
+## Dependencies
 
+```
+pandas==1.3.1
+numpy==1.21.1
+jellyfish==0.8.8
+```
